@@ -1,6 +1,6 @@
 var config = {
-	username:	'',
-	password:	'',
+	username:	'fatih1247',
+	password:	'1247s',
 	port:		1717
 }
 
